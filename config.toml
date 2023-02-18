@@ -195,7 +195,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       # whether to show social links
       social = true
       #  disclaimer (HTML format is supported)
-      disclaimer = "To cool to be true"
+      disclaimer = ""
     # Home page posts
     [params.home.posts]
       enable = true
