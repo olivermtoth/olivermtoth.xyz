@@ -183,13 +183,13 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     [params.home.profile]
       enable = true
       # Gravatar Email for preferred avatar in home page
-      gravatarEmail = "oliverm.toth@pm.me"
+      gravatarEmail = ""
       # URL of avatar shown in home page
-      avatarURL = "/images/avatar.png"
+      avatarURL = ""
       #  title shown in home page (HTML format is supported)
       title = "Oliver Marcell Toth"
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "This is My New Hugo Site"
+      subtitle = "Brogrammer, Math Nerd, AI enthusiast"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
@@ -219,14 +219,14 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     Youtubecustom = ""
     Youtubechannel = ""
     Tumblr = ""
-    Quora = ""
+    Quora = "olivermtoth"
     Keybase = ""
     Pinterest = ""
     Reddit = "olivermtoth"
     Codepen = ""
-    FreeCodeCamp = "olivermtoth"
+    FreeCodeCamp = ""
     Bitbucket = ""
-    Stackoverflow = "olivermtoth"
+    Stackoverflow = ""
     Weibo = ""
     Odnoklassniki = ""
     VK = ""
@@ -269,9 +269,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = "olivermtoth"
+    Discord = "olivermtoth#8931"
     DiscordInvite = ""
-    Lichess = ""
+    Lichess = "olivermtoth"
     ORCID = ""
     Pleroma = ""
     Kaggle = ""
@@ -280,7 +280,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     HackTheBox = ""
     RootMe= ""
     Phone = ""
-    Email = "xxxx@xxxx.com"
+    Email = "oliverm.toth@pm.me"
     RSS = false # 
 
   #  Page global config
@@ -292,7 +292,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
     #  whether to enable twemoji
     twemoji = false
     # whether to enable lightgallery
-    lightgallery = false
+    lightgallery = true
     #  whether to enable the ruby extended syntax
     ruby = true
     #  whether to enable the fraction extended syntax
